@@ -1,5 +1,5 @@
 ## Hi everyone, I'm Axel
-
+[![HitCount](http://hits.dwyl.com/Axel-Bentancur/Axel-Bentancur.svg)](http://hits.dwyl.com/Axel-Bentancur/Axel-Bentancur)
 ### I'm a Developer! 
 
 - Currently learning:
